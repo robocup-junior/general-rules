@@ -18,9 +18,9 @@ RoboCupJunior Forum for clarification: https://junior.forum.robocup.org/
 
 *Maximum Team Size*:
 
-* Soccer and Rescue Leagues: 4 members.
+* Rescue Leagues: 4 members.
 
-* OnStage League: 5 members.
+* Soccer and OnStage League: 5 members.
 
 *Shared Members and Robots*: No team member(s) or robot(s) may be
 shared between teams.
