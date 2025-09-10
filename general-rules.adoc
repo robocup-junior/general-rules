@@ -21,6 +21,10 @@ RoboCupJunior Forum for clarification: https://junior.forum.robocup.org/
 * Rescue Leagues: 4 members.
 
 * Soccer and OnStage League: 5 members.
+footnote:[The Soccer league can not guarantee the 5th team member can be
+registered **as a regular team member** at the international competition.
+See section "International Competition Specifics" in the Soccer rules for
+details.]
 
 *Shared Members and Robots*: No team member(s) or robot(s) may be
 shared between teams.
