@@ -26,6 +26,8 @@ server: https://robocup-junior.github.io/soccer-rules/discord/[Discord Server Li
 
 * OnStage League: 5 members.
 
+Regional and SuperRegional competitions may define their own team sizes depending on their venue capacity and regional variations. Teams attending the International competition will only be able to have the maximum number of registered participants in the qualifying team.
+
 *Shared Members and Robots*: No team member(s) or robot(s) may be
 shared between teams.
 
