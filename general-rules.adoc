@@ -12,8 +12,7 @@ League Rules, they are encouraged to inquire via the official
 RoboCupJunior Forum for clarification: https://junior.forum.robocup.org/
 
 For questions regarding any of the rules or RoboCupJunior in general, teams
-can also reach out to the RoboCupJunior community through the official discord
-server: https://robocup-junior.github.io/soccer-rules/discord/[Discord Server Link]
+can also reach out to the RoboCupJunior community through the https://robocup-junior.github.io/soccer-rules/discord/[official Discord Server]
 
 === Team requirements
 
