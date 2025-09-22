@@ -28,8 +28,16 @@ can also reach out to the RoboCupJunior community through the https://robocup-ju
 *Shared Members and Robots*: No team member(s) or robot(s) may be
 shared between teams.
 
+==== Team Supervision
 *Junior Mentor Requirement*: Each Junior team must have at least 
 one Junior Mentor registered and attending with the team.
+
+Mentors and Parent/Chaperones are responsible for supervising their teams
+and maintain a duty of care/well being for their team members, as appropriate for their home region's regulations.
+Any concerns regarding team member welfare should be brought to the attention of the event organizers immediately.
+
+The Junior Mentor is expected to be present during all official competition events with their team.
+They must not interact in an imposing manner with teams, robots, judges, or the judging process. Any incident considered inappropriate will be handled by the event organizers and may lead to disciplinary actions.
 
 ==== Age Requirements
 
@@ -186,6 +194,9 @@ league documentation submissions for the international competition.
 All participants are expected to behave themselves and be considerate and polite
 especially but not only towards other participants, volunteers, referees and
 organizers of all Junior and Major Leagues as well as the host venue.
+
+==== Code of Conduct
+All organisers, volunteers, team members, mentors, supporters and visitors must abide by the RoboCup Federation Code of Conduct. Any instances where, a situation occurs that does not meet the code of conduct must be reported to a RoboCup Federation organisation member and will be investigated.
 
 ==== Mentoring, Sponsorships and Component Reuse
 
