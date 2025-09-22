@@ -1,4 +1,4 @@
-== RoboCupJunior International 2025 General Rules
+== RoboCupJunior International 2026 General Rules
 
 These rules apply to the international RoboCupJunior competition.
 However, regional, super-regional, and local tournaments may have
@@ -10,6 +10,9 @@ be in use.
 If teams are unsure about any aspects of the General Rules or specific
 League Rules, they are encouraged to inquire via the official
 RoboCupJunior Forum for clarification: https://junior.forum.robocup.org/
+
+For questions regarding any of the rules or RoboCupJunior in general, teams
+can also reach out to the RoboCupJunior community through the https://robocup-junior.github.io/soccer-rules/discord/[official Discord Server]
 
 === Team requirements
 
@@ -102,7 +105,7 @@ functionality.
 Actuators must be appropriate for the robot’s size and function.
 
 * *Hazardous Behavior*: Teams must report potentially dangerous robot
-behaviors at least two weeks before the event.
+behaviors at least two weeks before a RoboCupJunior event.
 
 === Documentation and Sharing requirements
 
