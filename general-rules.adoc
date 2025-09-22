@@ -1,7 +1,7 @@
 == RoboCupJunior International 2026 General Rules
 
 These rules apply to the international RoboCupJunior competition.
-However, regional, super-regional, and local tournaments may have
+However, regional, SuperRegional, and local tournaments may have
 variations or adaptations to these rules to suit their specific
 competition needs. It is important to check with the organizers of the
 tournaments you are participating in to confirm which exact rules will
@@ -12,9 +12,9 @@ League Rules, they are encouraged to inquire via the official
 RoboCupJunior Forum for clarification: https://junior.forum.robocup.org/
 
 For questions regarding any of the rules or RoboCupJunior in general, teams
-can also reach out to the RoboCupJunior community through the https://robocup-junior.github.io/soccer-rules/discord/[official Discord Server]
+can also reach out to the RoboCupJunior community through the https://robocup-junior.github.io/soccer-rules/discord/[official Discord Server].
 
-=== Team requirements
+=== Team Requirements
 
 ==== Team Size
 *Minimum Team Size*: Teams must consist of at least 2 members.
@@ -43,11 +43,9 @@ They must not interact in an imposing manner with teams, robots, judges, or the 
 
 ==== Age Requirements
 
-*Junior Student Members:* Must be between 14 and 19 years old as of
-July 1 of the competition year.
+*Junior Student Members:* Must be between 14 and 19 years old as of July 1st of the competition year.
 
-*Junior Mentors and Parent/Chaperones:* Must be 19 years or older as
-of the competition start date.
+*Junior Mentors and Parent/Chaperones:* Must be 19 years or older as of July 1st of the competition year.
 
 ==== Team Members
 
@@ -74,7 +72,7 @@ may request additional slots during a later stage of the allocation process.
 
 *Permitted Communication*: Communication between robots during
 gameplay is allowed as long as it uses the 2.4GHz spectrum and its power
-output does not exceed 100 mW EIRP under any circumstances.
+output does not exceed 100 mW EIRP (Effective Isotropic Radiated Power) under any circumstances.
 
 *Responsibility*: Teams are responsible for managing their robot
 communication. Spectrum availability is not guaranteed.
@@ -91,7 +89,7 @@ rules to ensure they meet their specific requirements.
 
 * Robots must not use mains electricity.
 
-* Maximum allowed voltage: 48V DC or 25V AC RMS.
+* Maximum allowed voltage: 48V DC or 25V AC RMS (Root Mean Square).
 
 * Voltage must be easily measured during inspections, and measuring
 points must be covered for safety or designed with safety considerations
@@ -117,14 +115,14 @@ Actuators must be appropriate for the robot’s size and function.
 * *Hazardous Behavior*: Teams must report potentially dangerous robot
 behaviors at least two weeks before a RoboCupJunior event.
 
-=== Documentation and Sharing requirements
+=== Documentation and Sharing Requirements
 
-==== RCJ Team Posters
+==== RoboCupJunior Team Posters
 
 *Purpose*: Posters are a tool for sharing robot designs and insights
 with judges, teams, and the public. Posters will be hung in public
 competition areas in the venue and digital copies or photographs will be
-shared by RCJ after the competition.
+shared by RoboCupJunior after the competition.
 
 *Size*: Posters must be no larger than A1 size (60 x 84 cm).
 
@@ -170,7 +168,7 @@ complete solutions from others. Always pay attention to licensing rules.
 
 ==== Bill of Materials (BOM)
 
-*Submission*: Teams must submit a BOM listing major components and
+*Submission*: Teams must submit a BOM (Bill of Materials) listing major components and
 materials used. 
 
 *Details*: The BOM must include:
