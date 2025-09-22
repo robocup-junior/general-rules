@@ -198,23 +198,25 @@ organizers of all Junior and Major Leagues as well as the host venue.
 ==== Code of Conduct
 All organisers, volunteers, team members, mentors, supporters and visitors must abide by the RoboCup Federation Code of Conduct. Any instances where, a situation occurs that does not meet the code of conduct must be reported to a RoboCup Federation organisation member and will be investigated.
 
-==== Mentoring, Sponsorships and Component Reuse
-
+==== Mentoring and Onsite Assistance
 Support from other teams, mentors, teachers, parents, sponsors, internet
-communities etc. is a core part of how teams learn and grow. To ensure fair
-competition and maximize learning it is required that none of the support they
+communities etc. is a core part of how teams learn and grow.
+
+To ensure fair competition and maximize learning it is required that none of the support they
 receive does the work of competing for the team. A good indication is the team's
 ability to explain not only what their robots' components do but also how they
 do it.
 
-==== Onsite help
-
-Teams are only allowed to receive help from other teams during the competition.
-To this end only student team members are allowed into the student work area
-except with temporary organizer permission. Anyone else is forbidden from
-touching the robots or their code, especially for repairs, changes, programming.
+==== Teams Onsite
+* During the competition, only the official team members (maximum 4/5 depending on league) 
+can represent the team at registration, setup-day, and have access to the competition areas for rounds and interviews. 
+* There must be at least 2 team members on-site, unless a team can present evidence of extenuating circumstances, including proof of travel for other team members. Teams where only one participant presents at the venue will be able to compete, but will not be eligible for finals or awards. 
+* It is the teams' responsibility to ensure that team member are present at the correct time and location for all scheduled activities.
+* Teams are not allowed to communicate with or receive help virtually from external parties with the intention of impacting the team's performance during the competition areas. Virtually communicating includes but is not limited to extended phone calls, video calls, remote desktop control etc.
+* Any team found to be in breach of these rules may be subject to disciplinary action.
+* Teams are recommended  to seek help from other teams, or organizers if they are struggling with any issues onsite.
 
 ==== Violations
 
-Teams that repeatedly conduct themselves in an unacceptable way may be
+Teams, Team Mentors/Supporters or Team Members that repeatedly conduct themselves in an unacceptable way or in violation to the General or League Rules may be
 disqualified from the tournament and asked to leave the venue.
