@@ -46,6 +46,15 @@ competition but feature in many regions and SuperRegional tournaments.
 role (mechanical/design, electrical/sensing, software etc.) and should
 be able to explain their role during technical judging.
 
+=== International Team Qualification Process
+* To qualify for the International competition, each region’s Regional Representative will complete the Slot Allocation Process at the start of the Competition year. Regional Representatives can be found at the https://junior.robocup.org/gettingstarted/[Official Website].
+* After the region’s local qualifying tournament, the Regional Representative 
+will assign slots. Once confirmed by the RoboCupJunior organizers, the qualified teams will be invited to register through the official RoboCup Federation registration system.
+* The qualification process differs depending on the size of each region, 
+but slot allocation must strongly reflect results from regional competitions.
+* If a region does not use or releases its allocated slots, Regional Representatives 
+may request additional slots during a later stage of the allocation process.
+
 === Robot Requirements
 
 ==== Robot Communication
