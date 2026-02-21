@@ -1,4 +1,4 @@
-== RoboCupJunior International 2026 General Rules
+== RoboCupJunior International General Rules
 
 These rules apply to the international RoboCupJunior competition.
 However, regional, SuperRegional, and local tournaments may have
