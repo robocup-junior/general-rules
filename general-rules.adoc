@@ -1,14 +1,12 @@
 == RoboCupJunior International General Rules
 
 [.text-center]
-*License:* This document is licensed under the
-https://creativecommons.org/licenses/by-nc-sa/4.0/[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)] license.
-You are free to share and adapt this material for non-commercial, educational purposes,
-provided you give appropriate credit to RoboCupJunior and distribute any derivative works under the same license. +
+*License:* This document is licensed under the https://creativecommons.org/licenses/by-nc-sa/4.0/[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)] license.
+RoboCupJunior Regional committees are free to share and adapt this material for non-commercial, educational purposes, provided appropriate credit is given to RoboCupJunior and any derivative works are distributed under the same license.
+Exceptions may be granted by RoboCupJunior on a case-by-case basis. +
 © RoboCupJunior — https://junior.robocup.org
 
 '''
-
 
 These rules apply to the international RoboCupJunior competition.
 However, regional, SuperRegional, and local tournaments may have
@@ -230,28 +228,3 @@ can represent the team at registration, setup-day, and have access to the compet
 
 Teams, Team Mentors/Supporters or Team Members that repeatedly conduct themselves in an unacceptable way or in violation to the General or League Rules may be
 disqualified from the tournament and asked to leave the venue.
-
-'''
-
-=== License
-
-This document is published under the
-*Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)*.
-
-https://creativecommons.org/licenses/by-nc-sa/4.0/[image:https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png[CC BY-NC-SA 4.0]]
-
-*You are free to:*
-
-* *Share* — Copy and redistribute the material in any medium or format.
-* *Adapt* — Remix, transform, and build upon the material.
-
-*Under the following terms:*
-
-* *Attribution* — You must give appropriate credit to RoboCupJunior, provide a link to the license, and indicate if changes were made.
-* *NonCommercial* — You may not use the material for commercial purposes.
-* *ShareAlike* — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-
-*No additional restrictions* — You may not apply legal terms or technological measures
-that legally restrict others from doing anything the license permits.
-
-© RoboCupJunior — https://creativecommons.org/licenses/by-nc-sa/4.0/
