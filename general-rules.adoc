@@ -1,5 +1,13 @@
 == RoboCupJunior International General Rules
 
+[.text-center]
+*License:* This document is licensed under the https://creativecommons.org/licenses/by-nc-sa/4.0/[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)] license.
+RoboCupJunior Regional committees are free to share and adapt this material for non-commercial, educational purposes, provided appropriate credit is given to RoboCupJunior and any derivative works are distributed under the same license.
+Exceptions may be granted by RoboCupJunior on a case-by-case basis. +
+© RoboCupJunior — https://junior.robocup.org
+
+'''
+
 These rules apply to the international RoboCupJunior competition.
 However, regional, SuperRegional, and local tournaments may have
 variations or adaptations to these rules to suit their specific
@@ -31,7 +39,7 @@ Regional and SuperRegional competitions may define their own team sizes dependin
 shared between teams.
 
 ==== Team Supervision
-*Junior Mentor Requirement*: Each Junior team must have at least 
+*Junior Mentor Requirement*: Each Junior team must have at least
 one Junior Mentor registered and attending with the team.
 
 Mentors and Parent/Chaperones are responsible for supervising their teams
@@ -59,11 +67,11 @@ be able to explain their role during technical judging.
 
 === International Team Qualification Process
 * To qualify for the International competition, each region’s Regional Representative will complete the Slot Allocation Process at the start of the Competition year. Regional Representatives can be found at the https://junior.robocup.org/gettingstarted/[Official Website].
-* After the region’s local qualifying tournament, the Regional Representative 
+* After the region’s local qualifying tournament, the Regional Representative
 will assign slots. Once confirmed by the RoboCupJunior organizers, the qualified teams will be invited to register through the official RoboCup Federation registration system.
-* The qualification process differs depending on the size of each region, 
+* The qualification process differs depending on the size of each region,
 but slot allocation must strongly reflect results from regional competitions.
-* If a region does not use or releases its allocated slots, Regional Representatives 
+* If a region does not use or releases its allocated slots, Regional Representatives
 may request additional slots during a later stage of the allocation process.
 
 === Robot Requirements
@@ -169,7 +177,7 @@ complete solutions from others. Always pay attention to licensing rules.
 ==== Bill of Materials (BOM)
 
 *Submission*: Teams must submit a BOM (Bill of Materials) listing major components and
-materials used. 
+materials used.
 
 *Details*: The BOM must include:
 
@@ -208,9 +216,9 @@ ability to explain not only what their robots' components do but also how they
 do it.
 
 ==== Teams Onsite
-* During the competition, only the official team members (maximum 4/5 depending on league) 
-can represent the team at registration, setup-day, and have access to the competition areas for rounds and interviews. 
-* There must be at least 2 team members on-site, unless a team can present evidence of extenuating circumstances, including proof of travel for other team members. Teams where only one participant presents at the venue will be able to compete, but will not be eligible for finals or awards. 
+* During the competition, only the official team members (maximum 4/5 depending on league)
+can represent the team at registration, setup-day, and have access to the competition areas for rounds and interviews.
+* There must be at least 2 team members on-site, unless a team can present evidence of extenuating circumstances, including proof of travel for other team members. Teams where only one participant presents at the venue will be able to compete, but will not be eligible for finals or awards.
 * It is the teams' responsibility to ensure that team member are present at the correct time and location for all scheduled activities.
 * Teams are not allowed to communicate with or receive help virtually from external parties with the intention of impacting the team's performance during the competition areas. Virtually communicating includes but is not limited to extended phone calls, video calls, remote desktop control etc.
 * Any team found to be in breach of these rules may be subject to disciplinary action.
