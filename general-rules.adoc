@@ -40,7 +40,7 @@ shared between teams.
 
 [[team-continuity]]*Team Continuity*: A team that qualifies for a higher level of
 competition (from a regional to a SuperRegional or International
-competition) must include at least 2 members of the qualifying team when competing
+competition) must include at least one member of the qualifying team when competing
 at the next level. New members may be added, within the maximum team
 size, but the qualifying team may not be replaced. All members,
 including continuing and new members, must meet the
