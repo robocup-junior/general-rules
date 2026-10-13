@@ -78,7 +78,7 @@ may request additional slots during a later stage of the allocation process.
 
 ==== Robot Communication
 
-*Permitted Communication*: Communication between robots during competitions rounds is allowed as long as it uses the 2.4GHz spectrum and its power
+*Permitted Communication*: Communication between robots during competition rounds is allowed as long as it uses the 2.4GHz spectrum and its power
 output does not exceed 100 mW EIRP (Effective Isotropic Radiated Power) under any circumstances.
 
 *Responsibility*: Teams are responsible for managing their robot
