@@ -83,7 +83,8 @@ gameplay is allowed as long as it uses the 2.4GHz spectrum and its power
 output does not exceed 100 mW EIRP (Effective Isotropic Radiated Power) under any circumstances.
 
 *Responsibility*: Teams are responsible for managing their robot
-communication. Spectrum availability is not guaranteed.
+communication. Teams must ensure their wireless equipment and its
+use comply with host-country regulations. Spectrum availability is not guaranteed.
 
 *Component Communication*: Communication between components of the
 same robot is permitted.
