@@ -38,6 +38,14 @@ Regional and SuperRegional competitions may define their own team sizes dependin
 *Shared Members and Robots*: No team member(s) or robot(s) may be
 shared between teams.
 
+[[team-continuity]]*Team Continuity*: A team that qualifies for a higher level of
+competition (from a regional to a SuperRegional or International
+competition) must include at least one member of the qualifying team when competing
+at the next level. New members may be added, within the maximum team
+size, but the qualifying team may not be replaced. All members,
+including continuing and new members, must meet the
+<<technical-roles,Technical Roles>> requirement.
+
 ==== Team Supervision
 *Junior Mentor Requirement*: Each Junior team must have at least
 one Junior Mentor registered and attending with the team.
@@ -61,9 +69,12 @@ They must not interact in an imposing manner with teams, robots, judges, or the 
 divisions (where minimum age may vary) are not run at the international
 competition but feature in many regions and SuperRegional tournaments.
 
-*Technical Roles*: Every team member must have a defined technical
+[[technical-roles]]*Technical Roles*: Every team member must have a defined technical
 role (mechanical/design, electrical/sensing, software etc.) and should
-be able to explain their role during technical judging.
+be able to explain their role during technical judging. Non-technical
+roles, such as documentation, poster or graphic design, or presentation,
+may be shared by team members but do not on their own count as a
+technical role.
 
 === International Team Qualification Process
 * To qualify for the International competition, each region’s Regional Representative will complete the Slot Allocation Process at the start of the Competition year. Regional Representatives can be found at the https://junior.robocup.org/gettingstarted/[Official Website].
@@ -71,6 +82,7 @@ be able to explain their role during technical judging.
 will assign slots. Once confirmed by the RoboCupJunior organizers, the qualified teams will be invited to register through the official RoboCup Federation registration system.
 * The qualification process differs depending on the size of each region,
 but slot allocation must strongly reflect results from regional competitions.
+* Qualified teams must meet the <<team-continuity,Team Continuity>> requirement.
 * If a region does not use or releases its allocated slots, Regional Representatives
 may request additional slots during a later stage of the allocation process.
 
