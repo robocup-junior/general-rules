@@ -9,7 +9,7 @@ Exceptions may be granted by RoboCupJunior on a case-by-case basis. +
 '''
 
 These rules apply to the international RoboCupJunior competition.
-However, regional, SuperRegional, and local tournaments may have
+However, Regional, SuperRegional, and local tournaments may have
 variations or adaptations to these rules to suit their specific
 competition needs. It is important to check with the organizers of the
 tournaments you are participating in to confirm which exact rules will
@@ -47,10 +47,11 @@ students.
 [[team-definition]]
 ==== Team Definition
 *Team*: A team is defined by its robot(s) and the student members who
-built and developed them. The team members are the students who carried
+built and developed them. The team members are the students who carry
 out the work of designing, building and programming the robot(s) being
 entered. Membership may change between competition levels in accordance
-with the <<team-continuity,Team Continuity>> rule.
+with the <<team-continuity,Team Continuity>> rule. New members must
+contribute to this work before competing.
 
 [[technical-roles]]*Technical Roles*: Every team member must have a defined technical
 role (mechanical/design, electrical/sensing, software etc.) and must
@@ -96,13 +97,13 @@ Mentors and Parent/Chaperones are responsible for supervising their teams
 and maintain a duty of care/well being for their team members, as appropriate for their home region's regulations.
 Any concerns regarding team member welfare should be brought to the attention of the event organizers immediately.
 
-The Junior Mentor is expected to be present during all official competition events with their team.
+The Junior Mentor must be present at the venue during all official competition events, but may not enter the competition areas during rounds and interviews.
 They must not interact in an imposing manner with teams, robots, judges, or the judging process. Any incident considered inappropriate will be handled by the event organizers and may lead to disciplinary actions.
 
 [[age-requirements]]
 ==== Age Requirements
 
-*Junior Student Members:* Must be between 14 and 19 years old as of July 1st of the competition year.
+*Junior Student Members:* Must be 14 to 19 years old (inclusive) as of July 1st of the competition year.
 
 *Junior Mentors and Parent/Chaperones:* Must be 19 years or older as of July 1st of the competition year.
 
@@ -152,14 +153,18 @@ and evacuation procedures.
 
 *Robot Safety Design*:
 
-* *Power Management*: Secure batteries, safe wiring, and emergency stop
-functionality.
+* *Power Management*: Batteries must be securely mounted, wiring must
+be safe, and every robot must have an accessible way to cut power to immediately in emergency situations.
 
-* *Mechanical Safety*: No sharp edges, pinch points, or other hazards.
-Actuators must be appropriate for the robot’s size and function.
+* *Mechanical Safety*: Robots must not have sharp edges, pinch points,
+or other hazards. Actuators must be appropriate for the robot’s size
+and function.
 
 * *Hazardous Behavior*: Teams must report potentially dangerous robot
-behaviors at least two weeks before a RoboCupJunior event.
+behaviors to the event organizers at least two weeks before a
+RoboCupJunior event. Behavior discovered later must be reported as soon
+as it is discovered and must not be used in competition until the
+organizers approve it.
 
 === Documentation and Sharing Requirements
 
@@ -170,7 +175,7 @@ with judges, teams, and the public. Posters will be hung in public
 competition areas in the venue and digital copies or photographs will be
 shared by RoboCupJunior after the competition.
 
-*Size*: Posters must be no larger than A1 size (60 x 84 cm).
+*Size*: Posters must be no larger than A1 size (59.4 x 84.1 cm).
 
 *Content*: Posters should summarize design documents and present the
 robot’s capabilities in an engaging format.
@@ -245,7 +250,7 @@ especially but not only towards other participants, volunteers, referees and
 organizers of all Junior and Major Leagues as well as the host venue.
 
 ==== Code of Conduct
-All organisers, volunteers, team members, mentors, supporters and visitors must abide by the RoboCup Federation Code of Conduct. Any instances where, a situation occurs that does not meet the code of conduct must be reported to a RoboCup Federation organisation member and will be investigated.
+All organizers, volunteers, team members, mentors, supporters and visitors must abide by the RoboCup Federation Code of Conduct. Any instances where a situation occurs that does not meet the code of conduct must be reported to a RoboCup Federation organization member and will be investigated.
 
 [[mentoring-and-onsite-assistance]]
 ==== Mentoring and Onsite Assistance
@@ -258,15 +263,15 @@ ability to explain not only what their robots' components do but also how they
 do it.
 
 ==== Teams Onsite
-* During the competition, only the official team members (maximum 4/5 depending on league)
+* During the competition, only the official team members
 can represent the team at registration, setup-day, and have access to the competition areas for rounds and interviews.
-* There must be at least 2 team members on-site, unless a team can present evidence of extenuating circumstances, including proof of travel for other team members. Teams where only one participant presents at the venue will be able to compete, but will not be eligible for finals or awards.
-* It is the teams' responsibility to ensure that team member are present at the correct time and location for all scheduled activities.
-* Teams are not allowed to communicate with or receive help virtually from external parties with the intention of impacting the team's performance during the competition areas. Virtually communicating includes but is not limited to extended phone calls, video calls, remote desktop control etc.
+* There must be at least 2 team members on-site, unless a team can present evidence of extenuating circumstances, including proof of travel for other team members. Teams where only one team member is present at the venue without such evidence will be able to compete, but will not be eligible for finals or awards.
+* It is the teams' responsibility to ensure that team members are present at the correct time and location for all scheduled activities.
+* Teams are not allowed to communicate with or receive help virtually from external parties with the intention of impacting the team's performance during the competition. Virtually communicating includes but is not limited to phone calls, video calls, remote desktop control etc.
 * Any team found to be in breach of these rules may be subject to disciplinary action.
-* Teams are recommended  to seek help from other teams, or organizers if they are struggling with any issues onsite.
+* Teams are recommended to seek help from other teams, or organizers if they are struggling with any issues onsite.
 
 ==== Violations
 
-Teams, Team Mentors/Supporters or Team Members that repeatedly conduct themselves in an unacceptable way or in violation to the General or League Rules may be
+Teams, Junior Mentors, Parent/Chaperones or Team Members that repeatedly or seriously conduct themselves in an unacceptable way or in violation of the General or League Rules may be
 disqualified from the tournament and asked to leave the venue.
