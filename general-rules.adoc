@@ -261,7 +261,7 @@ participation.
 * Teams are responsible for making sure their members are at the right
 place at the right time for every scheduled activity.
 * During the competition, teams must not receive remote help with their
-robot, code, or strategy from anyone outside the team, for example, by phone, video call, messaging, or remote desktop. Help on site is covered
+robot, code, or strategy from anyone outside the team, for example, by phone or remote desktop. Help on site is covered
 by <<mentoring-and-onsite-assistance,Mentoring and Onsite Assistance>>.
 * Teams that break these rules may face disciplinary action.
 * If teams have problems on site, they are encouraged to ask other teams
